@@ -9,8 +9,8 @@ I am passionate about extracting meaning from data. I love exploring new technol
 Here are some of the projects I've worked on:
 
 - [Predicting Boston Housing Prices](link-to-project-1): This project aims to predict housing prices in Boston using machine learning techniques.
-- [Barbie vs Oppenheimer](https://public.tableau.com/app/profile/mahak.koli/viz/Barbenheimer_16905847227970/Dashboard2): Analyzing popularity comparision between Barbie and Oppenheimer in USA using Tableau
-- [Uber Data Analysis](https://github.com/makoli20/pyspark_): Analyzing Uber rides data using PySpark
+- [Barbie vs Oppenheimer](https://public.tableau.com/app/profile/mahak.koli/viz/Barbenheimer_16905847227970/Dashboard2): Analyzing popularity comparision between Barbie and Oppenheimer in USA using Tableau.
+- [Uber Data Analysis](https://github.com/makoli20/pyspark_): Analyzing Uber rides data using PySpark.
 
 Feel free to explore my repositories to see more of my work!
 
