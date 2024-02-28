@@ -23,8 +23,8 @@ Feel free to explore my repositories to see more of my work!
 
 ## Links
 
-- Tableau: (https://public.tableau.com/app/profile/mahak.koli/vizzes)
-- LinkedIn: (https://www.linkedin.com/in/mahak-koli/)
+- Tableau: https://public.tableau.com/app/profile/mahak.koli/vizzes
+- LinkedIn: https://www.linkedin.com/in/mahak-koli/
 
 
 Let's connect at makoli@syr.edu
