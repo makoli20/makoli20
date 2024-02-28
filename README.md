@@ -27,3 +27,10 @@ Feel free to explore my repositories to see more of my work!
 - Twitter: [@YourTwitterHandle](link-to-twitter)
 
 Let's connect and collaborate on interesting projects together!
+
+<!-- Add a colored background to the README -->
+<div style="background-color: #f0f0f0; padding: 20px;">
+    <h1 style="color: #333;">Welcome to My GitHub Profile! 👋</h1>
+    <p style="color: #555;">Hi there! I'm [Your Name], a passionate software developer and data enthusiast.</p>
+</div>
+
