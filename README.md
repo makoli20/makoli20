@@ -17,7 +17,7 @@ Feel free to explore my repositories to see more of my work!
 ## Tech Stack
 
 - Programming Languages: Python, R
-- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Excel
 - Data Visualization: Tableau, Power BI
 - Machine Learning: Scikit-learn, TensorFlow, Keras
 
